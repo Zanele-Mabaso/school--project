@@ -1,6 +1,7 @@
 # school--project
 My first GitHub repo
-# 👋🏽 Hey there!
+
+# Hey there!
 
 **Name:** Zanele Mabaso  
 **Course:** Bachelor of Computing (Honours)  
@@ -9,7 +10,7 @@ My first GitHub repo
 
 ---
 
-## 🌟 About Me
+## About Me
 
 I'm Zanele, a student on a mission to become one of the best programmers out there.  
 I’m passionate about using tech to solve real-life problems and make a difference.  
@@ -37,4 +38,3 @@ One day, I hope to build my own system, app, and even a *programming language* t
 ---
 
 Let’s grow. Let’s build. Let’s shake the system.
-
