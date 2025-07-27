@@ -4,7 +4,7 @@ My first GitHub repo
 # Hey there!
 
 **Name:** Zanele Mabaso  
-**Course:** Bachelor of Computing (Honours)  
+**Course:** Bachelor of science Computing (Honours)  
 **Year of Study:**  2nd year  
 **Institution:** Botho University
 
